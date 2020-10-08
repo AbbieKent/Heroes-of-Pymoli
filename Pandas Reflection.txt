@@ -1,0 +1,6 @@
+Pandas Reflection
+
+3 Observable Trends
+1. Although the majority of the players are male (84%), woman tent to spend more on average per item they purchased(average perchase price by woman:$3.20,average purchase price by men: $3.02).
+2. The largets age range of players is 20-24 years old with the largest amount of money spent ($1114.06).
+3. The item 'Final Critic' is the most popular and the most profitable item 
